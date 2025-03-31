@@ -1,5 +1,6 @@
-##### Emidio Mignozzetti
-WhatsApp: (11) 98889-6505 | e-mail: emidio.mig@hotmail.com
+### Emidio Mignozzetti
+📱 [WhatsApp (11) 98889-6505](https://wa.me/11988895405) 
+📧 [E-mail emidio.mig@hotmail.com](mailto:emidio.mig@hotmail.com)
 ***
 ###### SOBRE 
 - Sou um Gestor de Testes e Desenvolvedor, com experiência sólida em automação de testes utilizando Cypress, Selenium e Robotic Framework, além de testes de API com Postman. Tenho uma ampla experiência em integração contínua e entrega contínua (CI/CD) com ferramentas como Jenkins, GitHub Actions, GitLab, Bitbucket e Azure Repos. Possuo também conhecimentos em programação com JavaScript, Python, HTML e CSS, além de expertise em bancos de dados como Microsoft SQL Server, PostgreSQL, MySQL, MongoDB e Oracle.
