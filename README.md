@@ -7,6 +7,7 @@
 - Minha experiência inclui o gerenciamento de projetos utilizando ferramentas como Jira, Azure e Trello, aplicando metodologias Agile, Scrum, Kanban e XP. Tenho forte capacidade em análise de dados com ferramentas como Kibana e Datadog, e sou certificado com o ISTQB® Certified Tester Foundation Level (CTFL) e ISTQB® Certified Tester - Agile Tester (CTFL-AT).
 - Além disso, tenho vivência em implantação na área de QA utilizando Selenium e Cypress, ajudando a otimizar processos de automação e garantindo a qualidade do software em ambientes de alta performance.
 - Tenho uma forte paixão por garantir a qualidade do software e me dedicar ao desenvolvimento de soluções que melhorem a eficiência dos processos. Com a prática de técnicas como BDD e TDD, busco constantemente aprimorar a qualidade do código e os testes. Com mais de 15 anos de experiência e formação, estou sempre em busca de novos desafios para contribuir com a evolução dos projetos de software.
+- Atualmente trabalho na Multicom.
 ***
 ###### SKILLS
 - Programação: JavaScript, Python, HTML, CSS.
